@@ -1,0 +1,39 @@
+Read from /var/spool/torque/aux//10746.mighty.local
+This job runs on these processors:
+compute-0-4 compute-0-4 compute-0-4 compute-0-4 compute-0-4 compute-0-4 compute-0-4 compute-0-4 compute-0-3 compute-0-3 compute-0-3 compute-0-3 compute-0-3 compute-0-3 compute-0-3 compute-0-3 compute-0-2 compute-0-2 compute-0-2 compute-0-2 compute-0-2 compute-0-2 compute-0-2 compute-0-2 compute-0-1 compute-0-1 compute-0-1 compute-0-1 compute-0-1 compute-0-1 compute-0-1 compute-0-1
+------------------------Parallel Version------------------------
+================================================================
+processor[1] intital seed: 2551003221
+processor[2] intital seed: 3118050736
+processor[3] intital seed: 1575019855
+processor[4] intital seed: 15667810
+processor[5] intital seed: 1433923161
+processor[6] intital seed: 2737734628
+processor[7] intital seed: 4020010483
+processor[8] intital seed: 239807158
+processor[9] intital seed: 353018525
+processor[10] intital seed: 1813562200
+processor[11] intital seed: 2870865623
+processor[12] intital seed: 756858442
+processor[13] intital seed: 2414876961
+processor[14] intital seed: 2849792012
+processor[15] intital seed: 202415099
+processor[16] intital seed: 3002065182
+processor[17] intital seed: 3795670501
+processor[18] intital seed: 2367852032
+processor[19] intital seed: 163850591
+processor[20] intital seed: 3995592498
+processor[21] intital seed: 3463814377
+processor[22] intital seed: 3886924084
+processor[23] intital seed: 424704771
+processor[24] intital seed: 2580767878
+processor[25] intital seed: 391017005
+processor[26] intital seed: 3545083304
+processor[27] intital seed: 3757683943
+processor[28] intital seed: 3300928794
+processor[29] intital seed: 867408305
+processor[30] intital seed: 1846757212
+processor[31] intital seed: 2043951883
+----------Time elapsed: 3.0387949944----------------------------------
+----------PI value calculated by 2000000000 random numbers: 3.1415936342----------------------------------
+================================================================
